@@ -6,3 +6,5 @@ This project has been created for a school course!!
 
 And this is normal text. If you want to make new paragraph, then simply 
 ust leave a empty row and markdown will make you a new paragraph!
+
+See now i got a new paragraph!!
